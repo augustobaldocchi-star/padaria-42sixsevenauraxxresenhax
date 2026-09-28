@@ -70,7 +70,7 @@ blockquote {
     border: 1px solid #0a0a0a;
     border-radius: 8px;
     padding: 12px;
-    background-color: #FFFFFF;
+    background-color: #f08a8a;
 }
 
 .card img {
@@ -99,7 +99,7 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #E0C9A6;
+    border: 1px solid #a76d17;
     padding: 10px;
     text-align: left;
 }
